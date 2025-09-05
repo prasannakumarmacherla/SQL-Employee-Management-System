@@ -1,5 +1,6 @@
 # SQL-Employee-Management-System
 📊 SQL Project: Employee & Payroll Management System
+
 🔹 Project Overview
 
 This project focuses on building a complete SQL-based Employee and Payroll Management System. The goal was to design a relational database, import real-world data from Excel files, enforce data integrity through constraints, and generate business insights using SQL queries.
@@ -107,7 +108,7 @@ Scalability: The schema can easily expand with more datasets.
 
 🔹 Tools & Technologies Used
 
-SQL (MySQL / MariaDB) – Database design & queries
+SQL (MySQL) – Database design & queries
 
 Excel – Data source
 
